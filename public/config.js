@@ -2,7 +2,7 @@
 window.Config = {
 
   // 站点名
-  SiteName: 'Uptime Status',
+  SiteName: '萤火虫资源站 Status',
 
   // 站点链接
   SiteUrl: '/',
@@ -42,7 +42,7 @@ window.Config = {
   // 导航栏菜单
   Navi: [
     {
-      text: 'Homepage',
+      text: '萤火虫资源站',
       url: 'https://kamiui.ml/'
     },
   ]
